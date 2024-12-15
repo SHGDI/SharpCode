@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);CS8002;SA0001</NoWarn>
+    <OutDir>$(SolutionDir)bin</OutDir>
+  </PropertyGroup>
+</Project>
